@@ -1,0 +1,29 @@
+body{
+    background-color: grey;
+    color: antiquewhite;
+    
+}
+
+h1{
+    font-size:x-large;
+    background-color: black;
+    font-style: bold;
+    align-items: center;
+     text-align:center ;
+}
+
+.center{
+    align-content: center;
+    text-align: center;
+}
+
+p{
+    text-shadow: 0ch;
+    font-size: small;
+    font: 400;
+    color: azure;
+}
+h2{
+    font-size: medium;
+    background-color: black;
+}
